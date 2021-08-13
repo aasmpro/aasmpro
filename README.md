@@ -1,7 +1,7 @@
 Hi! I'm a Team Leader, Web Developer & Free/Open-Source software advocate. Currently working as CTO at [SnappCarFix](https://snappcarfix.com), an online platform for car parts and services.
 
 I am available to [Chat](mailto:aasmpro@gmail.com) about anything related to tech. it's always a pleasure to meet new people ;]
-Join me to play [Chess](https://www.chess.com/member/aasmpro) or [Dota2](https://steamcommunity.com/id/aasmpro/)
+Join me to play [Chess](https://www.chess.com/member/aasmpro) or [Dota2](https://steamcommunity.com/id/aasmpro/).
 
 [Personal Site](https://abolfazlamiri.ir) | 
 [StackOverflow](https://stackoverflow.com/users/6484831/aasmpro) | 
