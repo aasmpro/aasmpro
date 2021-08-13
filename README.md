@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi! I'm a Team Leader, Web Developer & Free/Open-Source software advocate. Currently working as CTO at [SnappCarFix](https://snappcarfix.com), an online platform for car parts and services.
 
-<!--
-**aasmpro/aasmpro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am available to [Chat](mailto:aasmpro@gmail.com) about anything related to tech. it's always a pleasure to meet new people ;]
+Join me to play [Chess](https://www.chess.com/member/aasmpro) or [Dota2](https://steamcommunity.com/id/aasmpro/)
 
-Here are some ideas to get you started:
+[Personal Site](https://abolfazlamiri.ir) | 
+[StackOverflow](https://stackoverflow.com/users/6484831/aasmpro) | 
+[LinkedIn](https://www.linkedin.com/in/aasmpro/) | 
+[Twitter](https://twitter.com/aasmpro) | 
+[Telegram](https://telegram.me/aasmpro/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=aasmpro&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=000000&border_color=000000&text_color=f9f5d7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aasmpro&layout=compact&langs_count=6&hide=c%23,css,html&hide_title=true&theme=gruvbox&bg_color=000000&border_color=000000&text_color=f9f5d7)](https://github.com/anuraghazra/github-readme-stats)
