@@ -7,7 +7,7 @@ Join me to play [![Chess](https://img.shields.io/badge/-Chess-79740e?style=flat)
 [![Personal Site](https://img.shields.io/badge/-PersonalSite-000000?style=flat&logo=Headspace&logoColor=fbf1c7)](https://abolfazlamiri.ir)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-af3a03?style=flat&logo=stackoverflow&logoColor=fbf1c7)](https://stackoverflow.com/users/6484831/aasmpro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/aasmpro/)
-[![Twitter](https://img.shields.io/badge/-Twitter-458588?style=flat&logo=twitter&logoColor=fbf1c7)](https://twitter.com/aasmoro)
+[![Twitter](https://img.shields.io/badge/-Twitter-458588?style=flat&logo=twitter&logoColor=fbf1c7)](https://twitter.com/aasmpro)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/aasmpro/)
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=aasmpro&count_private=true&show_icons=true&include_all_commits=true&hide_title=true&theme=gruvbox&bg_color=000000&border_color=000000&text_color=f9f5d7)](https://github.com/anuraghazra/github-readme-stats)
