@@ -1,4 +1,4 @@
-Hi! I'm a Team Leader, Web Developer & Free/Open-Source software advocate. Currently working as CTO at [![SnappCarFix](https://img.shields.io/badge/-SnappCarFix-427b58?style=flat)](https://snappcarfix.com), the largest online platform for car parts and services in Iran
+Hi! I'm a Team Leader & Web Developer, currently working as FullStack Developer at [![TrustYou](https://img.shields.io/badge/-TrustYou-076678?style=flat)]([https://snappcarfix.com](https://www.trustyou.com)), the world's largest feedback platform, aims to optimize the travel experience from the right hotel to the perfect stay.
 
 I am available to [![Chat](https://img.shields.io/badge/-Chat-fbf1c7?style=flat)](mailto:aasmpro@gmail.com) about anything related to tech. it's always a pleasure to meet new people ;]
 
