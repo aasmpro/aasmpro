@@ -4,9 +4,10 @@ I am available to [![Chat](https://img.shields.io/badge/-Chat-fbf1c7?style=flat)
 
 Join me to play [![Chess](https://img.shields.io/badge/-Chess-79740e?style=flat)](https://www.chess.com/member/aasmpro) or [![Dota2](https://img.shields.io/badge/-Dota2-9d0006?style=flat)](https://steamcommunity.com/id/aasmpro/)
 
-[![Personal Site](https://img.shields.io/badge/-PersonalSite-000000?style=flat&logo=Headspace&logoColor=fbf1c7)](https://abolfazlamiri.ir)
+[![Personal Site](https://img.shields.io/badge/-PersonalSite-000000?style=flat&logo=Headspace&logoColor=fbf1c7)](https://amiri.cc)
 [![StackOverflow](https://img.shields.io/badge/-StackOverflow-af3a03?style=flat&logo=stackoverflow&logoColor=fbf1c7)](https://stackoverflow.com/users/6484831/aasmpro)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-076678?style=flat&logo=Linkedin&logoColor=fbf1c7)](https://www.linkedin.com/in/aasmpro/)
+[![Instagram](https://img.shields.io/badge/-Instagram-9d0006?style=flat&logo=Instagram&logoColor=fbf1c7)](https://www.linkedin.com/in/aasmpro/)
 [![Twitter](https://img.shields.io/badge/-Twitter-458588?style=flat&logo=twitter&logoColor=fbf1c7)](https://twitter.com/aasmpro)
 [![Telegram](https://img.shields.io/badge/-Telegram-076678?style=flat&logo=telegram&logoColor=fbf1c7)](https://telegram.me/aasmpro/)
 
