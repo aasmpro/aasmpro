@@ -1,4 +1,4 @@
-Hi! I'm a Team Leader & Web Developer, currently working as FullStack Developer at [![TrustYou](https://img.shields.io/badge/-TrustYou-076678?style=flat)]([https://snappcarfix.com](https://www.trustyou.com)), the world's largest feedback platform, aims to optimize the travel experience from the right hotel to the perfect stay.
+Hi! I’m a Senior Software Engineer with 9+ years of experience, mostly focused on web development and leading technical teams.
 
 I am available to [![Chat](https://img.shields.io/badge/-Chat-fbf1c7?style=flat)](mailto:aasmpro@gmail.com) about anything related to tech. it's always a pleasure to meet new people ;]
 
